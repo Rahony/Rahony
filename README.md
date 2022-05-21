@@ -9,6 +9,7 @@ eu sei programar em:
 - lua
 - Java (aprendendo)
 - Python
+- GML
 
 e um pouco de outras linguagens também, como
 - Haxe

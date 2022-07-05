@@ -21,7 +21,9 @@ e um pouco de outras linguagens também, como
 é isso ai, Raramente você vai me ver usando o GitHub para compartilhar códigos reais, caso ache, provavelmente é algo muito grande, depois eu faço mais coisas aqui, eu nunca usei um MarkDown de verdade na minha vida inteira
 
 <div align="center">
+  
 ![Meu Fursona :3](https://uimg.ngfiles.com/profile/7162/7162221.png?f1642071472)
+  
 </div>
 <!---
 Rahony/Rahony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

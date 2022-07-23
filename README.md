@@ -12,7 +12,7 @@ eu sei programar em:
 - GML (Aprendendo também)
 
 e um pouco de outras linguagens também, como
-- Haxe (quero aprender mais, porém é dificil achar coisas relacionadas na minha lingua :()
+- Haxe (quero aprender mais, porém é dificil achar coisas relacionadas na minha lingua :c)
 - C#
 - C
 - Ruby

@@ -1,6 +1,6 @@
 # <div align="center"> ```print(Olá GitHub)``` </div>
 
-meu nome é `Rahony`, tenho 18 anos na hora que estou escrevendo esse MD, sou Pomossexual 🏳️‍🌈, e eu gosto muito de programar.
+meu nome é `Rahony`, tenho 18 anos na hora que estou escrevendo esse MD, sou Pomossexual 🏳️‍🌈, furry🦊, e eu gosto muito de programar.
 
 eu programo algumas coisas ai que ninguém liga, a maioria são privadas porque.. são códigos bem simples, normalmente códigos apenas para treinar
 
@@ -24,7 +24,7 @@ e um pouco de outras linguagens também, como
 ### coisas que ninguém liga sobre mim:
 - meus jogos favoritos são: minecraft, FNF, Geometry Dash, atualmente estou jogando muito Friday Night Funkin'
 - meu personagem favorito atualmente é a Abigale Evins (Abby) do mod *Maginage Matches* (a que estou usando de perfil, não questione, apenas aceite)
-- meus animais favoritos são: gato, cachorro, lobo, morcego🦇
+- meus animais favoritos são: gato, cachorro, lobo, raposa, morcego🦇
 - Minha linguagem de programação favorita atualmente é Python e Lua
 - além de programar, eu desenho e faço musicas também
 - eu gosto de café com leite

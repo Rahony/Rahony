@@ -21,7 +21,7 @@ e um pouco de outras linguagens também, como
 é isso ai, Raramente você vai me ver usando o GitHub para compartilhar códigos reais, caso ache, provavelmente é algo muito grande, depois eu faço mais coisas aqui, eu nunca usei um MarkDown de verdade na minha vida inteira
 
 ---
-### coisas que ninguém liga sobre mim:
+### <div align="center"> coisas que ninguém liga sobre mim: </div>
 - meus jogos favoritos são: minecraft, FNF, Geometry Dash, atualmente estou jogando muito Friday Night Funkin'
 - meu personagem favorito atualmente é a Abigale Evins (Abby) do mod *Maginage Matches* (a que estou usando de perfil, não questione, apenas aceite)
 - meus animais favoritos são: gato, cachorro, lobo, raposa, morcego🦇

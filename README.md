@@ -1,6 +1,6 @@
 # <div align="center"> ```print(Olá GitHub)``` </div>
 
-meu nome é `Rahony`, tenho 18 anos na hora que estou escrevendo esse MD, sou Pomossexual 🏳️‍🌈, furry🦊, e eu gosto muito de programar.
+meu nome é `Rahony`, tenho 19 anos na hora que estou escrevendo esse MD, sou Pomossexual 🏳️‍🌈, furry🦊, e eu gosto muito de programar.
 
 eu programo algumas coisas ai que ninguém liga, a maioria são privadas porque.. são códigos bem simples, normalmente códigos apenas para treinar
 
@@ -27,6 +27,7 @@ e um pouco de outras linguagens também, como
 - meus animais favoritos são: gato, cachorro, lobo, raposa, morcego🦇
 - Minha linguagem de programação favorita atualmente é Python e Lua
 - além de programar, eu desenho e faço musicas também
+- eu faço aniversário dia 29/08
 - eu gosto de café com leite
 
 

@@ -28,6 +28,7 @@ e um pouco de outras linguagens também, como
 - além de programar, eu desenho e faço musicas também
 - eu faço aniversário dia 29/08
 - eu gosto de café com leite
+- eu aprendi Haxe e HaxeFlixel(e continuo aprendendo) programando mods para o Friday Night Funkin'
 
 
 <!---

@@ -11,8 +11,6 @@ eu sei programar em:
 - Python
 - GML (Aprendendo)
 
-link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 e um pouco de outras linguagens também, como
 - C#
 - C

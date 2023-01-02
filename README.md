@@ -6,13 +6,14 @@ eu programo algumas coisas ai que ninguém liga, a maioria são privadas porque.
 
 eu sei programar em: 
 - C++
-- lua
-- Java (aprendendo)
+- HaXe/HaxeFlixel
+- LUA
 - Python
-- GML (Aprendendo também)
+- GML (Aprendendo)
+
+link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 e um pouco de outras linguagens também, como
-- Haxe (quero aprender mais, porém é dificil achar coisas relacionadas na minha lingua :c)
 - C#
 - C
 - Ruby

@@ -6,13 +6,13 @@ eu programo algumas coisas ai que ninguém liga, a maioria são privadas porque.
 
 eu sei programar em: 
 - C++
+- C#
 - HaXe/HaxeFlixel
 - LUA
 - Python
 - GML (Aprendendo)
 
 e um pouco de outras linguagens também, como
-- C#
 - C
 - Ruby
 - Algumas coisas para internet(HTML, CSS, JavaScript)

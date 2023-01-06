@@ -6,7 +6,7 @@ eu programo algumas coisas ai que ninguém liga, a maioria são privadas porque.
 
 eu sei programar em: 
 - C++
-- C#
+- C# (Aprendendo)
 - HaXe/HaxeFlixel
 - LUA
 - Python

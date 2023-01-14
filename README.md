@@ -11,6 +11,7 @@ eu sei programar em:
 - LUA
 - Python
 - GML (Aprendendo)
+- Java (Aprendendo)
 
 e um pouco de outras linguagens também, como
 - C

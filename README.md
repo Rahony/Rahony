@@ -12,6 +12,7 @@ eu sei programar em:
 - Python
 - GML (Aprendendo)
 - Java (Aprendendo)
+- MIPS assembly (Aprendendo e já não aguento mais)
 
 e um pouco de outras linguagens também, como
 - C

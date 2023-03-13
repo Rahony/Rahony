@@ -11,7 +11,7 @@ eu sei programar em:
 - LUA
 - Python
 - GML (Aprendendo)
-- Java (Aprendendo)
+- Java (Aprendendo, pior linguagem de todas)
 - MIPS assembly (Aprendendo e já não aguento mais)
 
 e um pouco de outras linguagens também, como
@@ -27,7 +27,7 @@ e um pouco de outras linguagens também, como
 - meu personagem favorito atualmente é a Abigale Evins (Abby) do mod *Maginage Matches* (a que estou usando de perfil, não questione, apenas aceite)
 - meus animais favoritos são: gato, cachorro, lobo, raposa, morcego🦇
 - Minha linguagem de programação favorita atualmente é Python e Lua
-- além de programar, eu desenho e faço musicas também
+- além de programar, eu desenho e faço musicas também, sei fazer animações e tenho preguiça de fazer tudo isso que eu escrevi
 - eu faço aniversário dia 29/08
 - eu gosto de café com leite
 - eu aprendi Haxe e HaxeFlixel(e continuo aprendendo) programando mods para o Friday Night Funkin'

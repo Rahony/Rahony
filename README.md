@@ -32,7 +32,7 @@ e um pouco de outras linguagens também, como
 - eu gosto de café com leite
 - eu aprendi Haxe e HaxeFlixel(e continuo aprendendo) programando mods para o Friday Night Funkin'
 
-
+https://img.shields.io/github/languages/top/Rahony/readme.md
 <!---
 
 <div align="center">

@@ -22,7 +22,7 @@ e um pouco de outras linguagens também, como
 é isso ai, Raramente você vai me ver usando o GitHub para compartilhar códigos reais, caso ache, provavelmente é algo muito grande, depois eu faço mais coisas aqui, eu nunca usei um MarkDown de verdade na minha vida inteira
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahony&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahony&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahony&size_weight=0.5&count_weight=0.5)](https://github.com/Rahony/github-readme-stats)
 
 ---
 ### <div align="center"> coisas que ninguém liga sobre mim: </div>

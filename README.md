@@ -11,13 +11,14 @@ eu sei programar em:
 - LUA
 - Python
 - GML (Aprendendo)
-- Java (Aprendendo, pior linguagem de todas)
+- Java (Aprendendo, eu odeio java odeio mais que qualquer coisa no mundo)
 - MIPS assembly (Aprendendo e já não aguento mais)
+- Algumas coisas para internet(HTML e CSS por enquanto)
 
 e um pouco de outras linguagens também, como
 - C
 - Ruby
-- Algumas coisas para internet(HTML, CSS, JavaScript)
+- Rust
 
 é isso ai, Raramente você vai me ver usando o GitHub para compartilhar códigos reais, caso ache, provavelmente é algo muito grande, depois eu faço mais coisas aqui, eu nunca usei um MarkDown de verdade na minha vida inteira
 

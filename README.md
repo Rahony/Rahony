@@ -10,6 +10,7 @@ eu sei programar em:
 - HaXe/HaxeFlixel
 - LUA
 - Python
+- Rust
 - GML (Aprendendo)
 - Java (Aprendendo, eu odeio java odeio mais que qualquer coisa no mundo)
 - MIPS assembly (Aprendendo e já não aguento mais)
@@ -18,7 +19,6 @@ eu sei programar em:
 e um pouco de outras linguagens também, como
 - C
 - Ruby
-- Rust
 
 é isso ai, Raramente você vai me ver usando o GitHub para compartilhar códigos reais, caso ache, provavelmente é algo muito grande, depois eu faço mais coisas aqui, eu nunca usei um MarkDown de verdade na minha vida inteira
 

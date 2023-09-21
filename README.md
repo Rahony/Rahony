@@ -14,6 +14,7 @@ eu sei programar em:
 - GML (Aprendendo)
 - Java (Aprendendo, eu odeio java odeio mais que qualquer coisa no mundo)
 - MIPS assembly (Aprendendo e já não aguento mais)
+- GDScript (aprendendo, Por que você fez isso comigo unity? :c)
 - Algumas coisas para internet(HTML e CSS por enquanto)
 
 e um pouco de outras linguagens também, como
